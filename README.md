@@ -1,5 +1,7 @@
 # Awesome AGS (WIP)
-A curated list of free/libre plugins, modules, tools, etc. for [Adventure Game Studio (AGS)](https://github.com/adventuregamestudio). [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+[![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+
+A curated list of free/libre plugins, modules, tools, etc. for [Adventure Game Studio (AGS)](https://github.com/adventuregamestudio).
 
 ## Contents
 
