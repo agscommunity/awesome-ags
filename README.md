@@ -8,6 +8,7 @@ A curated list of free/libre plugins, modules, tools, etc. for [Adventure Game S
 * [Templates](#templates)
 * [Tools](#tools)
 * [Games](#games)
+* [Developers](#developers)
 
 ## Modules
 
@@ -32,3 +33,11 @@ TODO
 ## Games
 
 TODO
+
+## Developers
+
+* [AlanDrake](https://github.com/AlanDrake)
+* [Dualnames1](https://github.com/Dualnames1)
+* [edmundito](https://github.com/edmundito)
+* [ericoporto](https://github.com/ericoporto)
+* [ivan-mogilko](https://github.com/ivan-mogilko)
