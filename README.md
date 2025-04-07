@@ -1,5 +1,5 @@
 # Awesome AGS
-A curated list of free/libre plugins, modules, tools, etc. for Adventure Game Studio (AGS)
+A curated list of free/libre plugins, modules, tools, etc. for [Adventure Game Studio (AGS)](https://github.com/adventuregamestudio).
 
 ## Contents
 
